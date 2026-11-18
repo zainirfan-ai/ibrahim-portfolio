@@ -1,0 +1,6 @@
+# robots.txt for Ibrahim Yousuf Portfolio & AI Hub
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://ibrahimyousuf.dev/sitemap.xml
